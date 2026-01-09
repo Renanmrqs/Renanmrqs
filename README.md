@@ -18,5 +18,7 @@ Sou um estudante de Desenvolvimento de Software focado em **Python** e automaç�
 
 ---
 
-### 📊 Minhas Estatísticas
-![Renan Stats](https://github-readme-streak-stats.herokuapp.com/?user=Renanmrqs&theme=dark&hide_border=true)
+### 🏆 Minhas Conquistas
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Renanmrqs&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
+</div>
