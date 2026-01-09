@@ -4,7 +4,7 @@ Sou um estudante de Desenvolvimento de Software focado em **Python** e automaç�
 
 - 🔭 Atualmente trabalhando em: **Bots para Telegram e Automação**
 - 🌱 Estudando: **Python Avançado, APIs e Banco de Dados**
-- ⚡ Curiosidade: Fanático por Futebol Manager e Hollow Knight 🎮
+- ⚡ Curiosidade: Fanático por Futebol Manager e Breaking Bad 🎮🎬
 
 ---
 
@@ -19,7 +19,8 @@ Sou um estudante de Desenvolvimento de Software focado em **Python** e automaç�
 ---
 
 ### 📊 Minhas Estatísticas
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renanmrqs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanmrqs&layout=compact&theme=dracula"/>
-</div>
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Renanmrqs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  &nbsp;
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanmrqs&layout=compact&theme=tokyonight"/>
+</p>
