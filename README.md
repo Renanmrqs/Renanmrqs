@@ -19,5 +19,4 @@ Sou um estudante de Desenvolvimento de Software focado em **Python** e automaç�
 ---
 
 ### 📊 Minhas Estatísticas
-![Renan Stats](https://github-readme-stats.vercel.app/api?username=Renanmrqs&show_icons=true&theme=tokyonight)
-![Renan Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renanmrqs&layout=compact&theme=tokyonight)
+![Renan Stats](https://github-readme-streak-stats.herokuapp.com/?user=Renanmrqs&theme=dark&hide_border=true)
