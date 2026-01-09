@@ -19,8 +19,5 @@ Sou um estudante de Desenvolvimento de Software focado em **Python** e automaç�
 ---
 
 ### 📊 Minhas Estatísticas
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Renanmrqs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  &nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanmrqs&layout=compact&theme=tokyonight"/>
-</p>
+![Renan Stats](https://github-readme-stats.vercel.app/api?username=Renanmrqs&show_icons=true&theme=tokyonight)
+![Renan Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renanmrqs&layout=compact&theme=tokyonight)
