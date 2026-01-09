@@ -23,7 +23,7 @@ Sou um estudante de Desenvolvimento de Software focado em **Python** e automa√ß√
   <a href="https://www.linkedin.com/in/renan-fernandes-marques" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI" target="_blank">
+  <a href="mailto:renanmarques1923@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>
