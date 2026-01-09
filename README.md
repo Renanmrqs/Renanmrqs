@@ -18,7 +18,12 @@ Sou um estudante de Desenvolvimento de Software focado em **Python** e automaç�
 
 ---
 
-### 🏆 Minhas Conquistas
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Renanmrqs&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
+### 📬 Contato
+<div style="display: inline_block">
+  <a href="https://www.linkedin.com/in/renan-fernandes-marques" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:SEU_EMAIL_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
 </div>
