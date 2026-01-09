@@ -20,7 +20,7 @@ Sou um estudante de Desenvolvimento de Software focado em **Python** e automaç�
 
 ### 📬 Contato
 <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/renan-fernandes-marques" target="_blank">
+  <a href="https://www.linkedin.com/in/renan-fernandes-marques-554a992ab/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:renanmarques1923@gmail.com" target="_blank">
