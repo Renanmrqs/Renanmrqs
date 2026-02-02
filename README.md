@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Renan 👋
+# E aí! Sou o Renan 👋
 
-**Python Developer | Automation & Data | Looking for Internship**
+**Desenvolvedor Python | Automação & Dados | Buscando Estágio**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-fernandes-marques-554a992ab/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:renanmarques1923@gmail.com)
@@ -12,36 +12,36 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre Mim
 
-Python developer passionate about **automation** and **data analysis**. I build bots, tools, and applications that solve real-world problems.
+Desenvolvedor Python apaixonado por **automação** e **análise de dados**. Construo bots, ferramentas e aplicações que resolvem problemas reais.
 
-- 🔭 Currently working on: **Telegram Bots & Python Automation**
-- 🌱 Learning: **CS50 Python, Pytest, Advanced OOP**
-- 💼 Seeking: **Internship in Python Development or Data**
-- 📍 Location: Santa Catarina, Brazil 🇧🇷
-- ⚡ Fun fact: Football Manager enthusiast & Breaking Bad fan
+- 🔭 Trabalhando em: **Bots para Telegram & Automação com Python**
+- 🌱 Estudando: **CS50 Python, Pytest, POO Avançado**
+- 💼 Buscando: **Estágio em Desenvolvimento Python ou Dados**
+- 📍 Localização: Santa Catarina, Brasil 🇧🇷
+- ⚡ Curiosidade: Fanático por Football Manager e Breaking Bad
 
 ---
 
-## 💻 Featured Projects
+## 💻 Projetos em Destaque
 
-### ⚔️ [RPG Battle Arena](https://github.com/Renanmrqs/Streamlit-RPG-Architecture)
-Interactive RPG simulator with advanced OOP, real-time analytics, and cloud deployment.
-- 🎮 **[Live Demo](https://app-rpg-architecturepublic-fv6z8svu4beme5tfdwikkv.streamlit.app/)**
+### ⚔️ [Coliseu de Batalha Dinâmico](https://github.com/Renanmrqs/Streamlit-RPG-Architecture)
+Simulador RPG interativo com POO avançada, analytics em tempo real e deploy na nuvem.
+- 🎮 **[Demo ao Vivo](https://app-rpg-architecturepublic-fv6z8svu4beme5tfdwikkv.streamlit.app/)**
 - 🛠️ Python • Streamlit • Pandas • Pytest
 
 ### 🤖 [Telegram Service Bot](https://github.com/Renanmrqs/Telegram-Service-Bot)
-Modular chatbot integrated with external APIs for real-time services.
+Chatbot modular integrado a APIs externas para serviços em tempo real.
 - 🛠️ Python • Telebot • SQLite
 
-### 📈 [Dollar Alert Bot](https://github.com/Renanmrqs/Dolar-Alert-Bot)
-ETL automation that monitors currency rates and sends notifications.
+### 📈 [Dólar Alert Bot](https://github.com/Renanmrqs/Dolar-Alert-Bot)
+Automação ETL que monitora cotações e envia notificações.
 - 🛠️ Python • Requests • REST APIs
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológico
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -50,22 +50,22 @@ ETL automation that monitors currency rates and sends notifications.
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
-**Skills:** OOP • Data Analysis • ETL • REST APIs • Automation • Testing
+**Habilidades:** POO • Análise de Dados • ETL • APIs REST • Automação • Testes
 
 ---
 
-## 📫 Get in Touch
+## 📫 Contato
 
 - 💼 LinkedIn: [Renan Marques](https://www.linkedin.com/in/renan-fernandes-marques-554a992ab/)
 - 📧 Email: renanmarques1923@gmail.com
-- 💻 Portfolio: [GitHub Projects](https://github.com/Renanmrqs?tab=repositories)
+- 💻 Portfólio: [Projetos no GitHub](https://github.com/Renanmrqs?tab=repositories)
 
-**Open to internship opportunities** • Remote or on-site (Florianópolis/SC area)
+**Aberto a oportunidades de estágio** • Remoto ou presencial (Florianópolis/SC e região)
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Renanmrqs&color=blue&style=flat-square)
+![Visualizações do Perfil](https://komarev.com/ghpvc/?username=Renanmrqs&color=blue&style=flat-square)
 
 </div>
