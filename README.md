@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-fernandes-marques-554a992ab/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:renanmarques1923@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Renanmrqs?label=Follow&style=social)](https://github.com/Renanmrqs)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)]((https://www.tiktok.com/@renan.marques.dev))
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@renan.marques.dev)
 
 </div>
 
