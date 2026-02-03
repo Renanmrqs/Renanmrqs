@@ -18,7 +18,7 @@ Desenvolvedor Python apaixonado por **automação** e **análise de dados**. Con
 
 - 🔭 Trabalhando em: **Bots para Telegram & Automação com Python**
 - 🌱 Estudando: **CS50 Python, Pytest, POO Avançado**
-- 💼 Buscando: **Estágio em Desenvolvimento Python ou Dados**
+- 💼 Buscando: **Estágio em Desenvolvimento Python, Dados ou IA**
 - 📍 Localização: Santa Catarina, Brasil 🇧🇷
 - ⚡ Curiosidade: Fanático por Football Manager e Breaking Bad
 
