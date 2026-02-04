@@ -2,7 +2,7 @@
 
 # E aí! Sou o Renan 👋
 
-**Desenvolvedor Python | Automação & Dados | Buscando Estágio**
+**Desenvolvedor Python | Automação - Dados - IA | Buscando Estágio**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-fernandes-marques-554a992ab/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:renanmarques1923@gmail.com)
@@ -51,7 +51,7 @@ Automação ETL que monitora cotações e envia notificações.
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
-**Habilidades:** POO • Análise de Dados • ETL • APIs REST • Automação • Testes
+**Habilidades:** POO • Análise de Dados • ETL • APIs REST • Automação • Testes • IA
 
 ---
 
