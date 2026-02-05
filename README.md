@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor Python apaixonado por **automação** e **análise de dados**. Construo bots, ferramentas e aplicações que resolvem problemas reais.
+Desenvolvedor Python apaixonado por **automação** **análise de dados** **IA**. Construo bots, ferramentas e aplicações que resolvem problemas reais.
 
 - 🔭 Trabalhando em: **Agente de IA com Python**
 - 🌱 Estudando: **CS50 Python, IA, POO Avançado**
@@ -35,9 +35,9 @@ Simulador RPG interativo com POO avançada, analytics em tempo real e deploy na 
 Chatbot modular integrado a APIs externas para serviços em tempo real.
 - 🛠️ Python • Telebot • SQLite
 
-### 📈 [Dólar Alert Bot](https://github.com/Renanmrqs/Dolar-Alert-Bot)
-Automação ETL que monitora cotações e envia notificações.
-- 🛠️ Python • Requests • REST APIs
+### 📈 [Projeto InsightCSV](https://github.com/Renanmrqs/Projeto-InsightCSV)
+Análise de arquivos CSV atraves de IA com Langchain. --- *em andamento*
+- 🛠️ Python • Langchain • Pandas • Streamlit
 
 ---
 
