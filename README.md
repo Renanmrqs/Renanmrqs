@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor Python apaixonado por **automação** **análise de dados** **IA**. Construo bots, ferramentas e aplicações que resolvem problemas reais.
+Desenvolvedor Python apaixonado por **automação** **análise de dados** e **IA**. Construo bots, ferramentas e aplicações que resolvem problemas reais.
 
 - 🔭 Trabalhando em: **Agente de IA com Python**
 - 🌱 Estudando: **CS50 Python, IA, POO Avançado**
