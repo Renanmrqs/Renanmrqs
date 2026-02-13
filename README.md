@@ -31,9 +31,9 @@ Simulador RPG interativo com POO avançada, analytics em tempo real e deploy na 
 - 🎮 **[Demo ao Vivo](https://app-rpg-architecturepublic-fv6z8svu4beme5tfdwikkv.streamlit.app/)**
 - 🛠️ Python • Streamlit • Pandas • Pytest
 
-### 🤖 [Telegram Service Bot](https://github.com/Renanmrqs/Telegram-Service-Bot)
-Chatbot modular integrado a APIs externas para serviços em tempo real.
-- 🛠️ Python • Telebot • SQLite
+### 🤖 [SentimentAI](https://github.com/Renanmrqs/SentimentAI)
+Modelo de Machine Learning para análise de sentimentos em reviews de filmes usando Processamento de Linguagem Natural..
+- 🛠️ Python • NLTK • scikit-learn • Pandas
 
 ### 📈 [Projeto InsightCSV](https://github.com/Renanmrqs/Projeto-InsightCSV)
 Análise de arquivos CSV atraves de IA com Langchain. --- *em andamento*
