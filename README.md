@@ -32,7 +32,7 @@ Simulador RPG interativo com POO avançada, analytics em tempo real e deploy na 
 - 🛠️ Python • Streamlit • Pandas • Pytest
 
 ### 🤖 [SentimentAI](https://github.com/Renanmrqs/SentimentAI)
-Modelo de Machine Learning para análise de sentimentos em reviews de filmes usando Processamento de Linguagem Natural..
+Modelo de Machine Learning para análise de sentimentos em reviews de filmes usando Processamento de Linguagem Natural.
 - 🛠️ Python • NLTK • scikit-learn • Pandas
 
 ### 📈 [Projeto InsightCSV](https://github.com/Renanmrqs/Projeto-InsightCSV)
