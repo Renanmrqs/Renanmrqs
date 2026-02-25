@@ -2,7 +2,7 @@
 
 # E aí! Sou o Renan 👋
 
-**Desenvolvedor Python | Automação - Dados - IA | Buscando Estágio**
+**Desenvolvedor Python | Back-End - Dados - IA | Buscando Estágio**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-fernandes-marques-554a992ab/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:renanmarques1923@gmail.com)
