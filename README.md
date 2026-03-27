@@ -16,8 +16,8 @@
 
 Desenvolvedor Python apaixonado por **automação** **análise de dados** e **IA**. Construo bots, ferramentas e aplicações que resolvem problemas reais.
 
-- 🔭 Trabalhando em: **Agente de IA com Python**
-- 🌱 Estudando: **CS50 Python, IA, POO Avançado**
+- 🔭 Trabalhando em: **APIS e SQL**
+- 🌱 Estudando: **CS50 SQL, Lógica e Dados**
 - 💼 Buscando: **Estágio em Desenvolvimento Python, Dados ou IA**
 - 📍 Localização: Santa Catarina, Brasil 🇧🇷
 - ⚡ Curiosidade: Fanático por Football Manager e Breaking Bad
