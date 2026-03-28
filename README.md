@@ -1,71 +1,94 @@
-<div align="center">
+<h1 align="center">E aí! Sou o Renan 👋</h1>
 
-# E aí! Sou o Renan 👋
+<p align="center">
+  <b>Desenvolvedor Python | Back-End · Dados · IA | Buscando Estágio</b>
+</p>
 
-**Desenvolvedor Python | Back-End - Dados - IA | Buscando Estágio**
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-fernandes-marques-554a992ab/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:renanmarques1923@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/Renanmrqs?label=Follow&style=social)](https://github.com/Renanmrqs)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/renan-marques-dev-python" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Renanmrqs">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor Python apaixonado por **automação** **análise de dados** e **IA**. Construo bots, ferramentas e aplicações que resolvem problemas reais.
+Desenvolvedor Python apaixonado por **automação, análise de dados e IA**. Construo bots, ferramentas e aplicações que resolvem problemas reais.
 
-- 🔭 Trabalhando em: **APIS e SQL**
-- 🌱 Estudando: **CS50 SQL, Lógica e Dados**
-- 💼 Buscando: **Estágio em Desenvolvimento Python, Dados ou IA**
-- 📍 Localização: Santa Catarina, Brasil 🇧🇷
-- ⚡ Curiosidade: Fanático por Football Manager e Breaking Bad
+- 🛠️ Trabalhando em: **APIs e SQL**
+- 📚 Estudando: **CS50 SQL, FastAPI, Lógica e Dados**
+- 🎯 Buscando: **Estágio em Desenvolvimento Python, Dados ou IA**
+- 📍 Localização: **Santa Catarina, Brasil 🇧🇷**
+- ⚡ Curiosidade: Fanático por **Football Manager** e **Breaking Bad**
+
+---
+
+## 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Renanmrqs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanmrqs&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Renanmrqs&theme=tokyonight&hide_border=false&locale=pt_BR" alt="GitHub Streak"/>
+</p>
 
 ---
 
 ## 💻 Projetos em Destaque
 
-### ⚔️ [Coliseu de Batalha Dinâmico](https://github.com/Renanmrqs/Streamlit-RPG-Architecture)
-Simulador RPG interativo com POO avançada, analytics em tempo real e deploy na nuvem.
-- 🎮 **[Demo ao Vivo](https://app-rpg-architecturepublic-fv6z8svu4beme5tfdwikkv.streamlit.app/)**
-- 🛠️ Python • Streamlit • Pandas • Pytest
-
 ### 🤖 [SentimentAI](https://github.com/Renanmrqs/SentimentAI)
-Modelo de Machine Learning para análise de sentimentos em reviews de filmes usando Processamento de Linguagem Natural.
-- 🛠️ Python • NLTK • scikit-learn • Pandas
+> Modelo de Machine Learning para análise de sentimentos em reviews de filmes usando Processamento de Linguagem Natural.
+
+`Python` `Streamlit` `NLT` `scikit-learn` `Pandas`
+
+---
+
+### 🏋️ [Gym API](https://github.com/Renanmrqs/Gym-Api)
+> API REST completa para gestão de academia — cadastro de alunos, planos e treinos. **em desenvolvimento**
+
+`Python` `FastAPI` `SQLite` `Streamlit`
+
+---
 
 ### 📈 [Projeto InsightCSV](https://github.com/Renanmrqs/Projeto-InsightCSV)
-Análise de arquivos CSV atraves de IA com Langchain. --- *em andamento*
-- 🛠️ Python • Langchain • Pandas • Streamlit
+> Análise de arquivos CSV atraves de IA com Langchain. 
+`Python` `langchain` `Pandas` `Streamlit`
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🐍 Contribuições
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-
-**Habilidades:** POO • Análise de Dados • ETL • APIs REST • Automação • Testes • IA
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Renanmrqs/Renanmrqs/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
 
 ---
 
-## 📫 Contato
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Renanmrqs&color=blueviolet&style=for-the-badge" alt="profile views"/>
+</p>
 
-- 💼 LinkedIn: [Renan Marques](https://www.linkedin.com/in/renan-fernandes-marques-554a992ab/)
-- 📧 Email: renanmarques1923@gmail.com
-- 💻 Portfólio: [Projetos no GitHub](https://github.com/Renanmrqs?tab=repositories)
-
-**Aberto a oportunidades de estágio** • Remoto ou presencial (Florianópolis/SC e região)
-
----
-
-<div align="center">
-
-![Visualizações do Perfil](https://komarev.com/ghpvc/?username=Renanmrqs&color=blue&style=flat-square)
-
-</div>
+<p align="center"><i>"Code solves problems. Python solves them elegantly."</i></p>
