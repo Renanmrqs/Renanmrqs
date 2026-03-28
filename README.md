@@ -78,6 +78,7 @@ Desenvolvedor Python apaixonado por **automação, análise de dados e IA**. Con
 
 ### 📈 [Projeto InsightCSV](https://github.com/Renanmrqs/Projeto-InsightCSV)
 > Análise de arquivos CSV atraves de IA com Langchain. 
+
 `Python` `langchain` `Pandas` `Streamlit`
 
 ---
