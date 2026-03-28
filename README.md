@@ -20,9 +20,9 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor Python apaixonado por **automação, análise de dados e IA**. Construo bots, ferramentas e aplicações que resolvem problemas reais.
+DDesenvolvedor Python focado em back-end e automação, com projetos envolvendo APIs REST, análise de sentimentos com ML e bots com integração a APIs externas.
 
-- 🛠️ Trabalhando em: **APIs e SQL**
+- 🛠️ Trabalhando em: Construindo: Gym API — REST API com FastAPI e SQLite
 - 📚 Estudando: **CS50 SQL, FastAPI, Lógica e Dados**
 - 🎯 Buscando: **Estágio em Desenvolvimento Python, Dados ou IA**
 - 📍 Localização: **Santa Catarina, Brasil 🇧🇷**
