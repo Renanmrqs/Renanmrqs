@@ -47,8 +47,8 @@ Desenvolvedor Python apaixonado por **automação, análise de dados e IA**. Con
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Renanmrqs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanmrqs&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Renanmrqs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanmrqs&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <p align="center">
