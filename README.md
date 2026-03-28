@@ -25,7 +25,7 @@ APIs REST, chatbots integrados a serviços externos, modelos de Machine Learning
 NLP e análise de dados com IA. Gosto de projetos que resolvem problemas reais —
 do back-end ao deploy.
 
-- 🛠️ Trabalhando: Gym API — REST API com FastAPI e SQLite
+- 🛠️ Trabalhando: **Gym API — REST API com FastAPI e SQLite**
 - 📚 Estudando: **CS50 SQL, FastAPI, Lógica e Dados**
 - 🎯 Buscando: **Estágio em Desenvolvimento Python, Dados ou IA**
 - 📍 Localização: **Santa Catarina, Brasil 🇧🇷**
