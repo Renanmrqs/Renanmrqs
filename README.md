@@ -73,7 +73,7 @@ do back-end ao deploy.
 ---
 
 ### 🏋️ [Gym API](https://github.com/Renanmrqs/Gym-Api)
-> API REST completa para gestão de academia — cadastro de alunos, planos e treinos. **em desenvolvimento**
+> API REST completa para gestão de treinos de academia — cadastro de usuarios, planos e treinos. **em desenvolvimento**
 
 `Python` `FastAPI` `SQLite` `Streamlit`
 
