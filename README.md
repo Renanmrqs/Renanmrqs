@@ -20,8 +20,8 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor Python focado em **back-end, dados e IA**. Já construí projetos com
-APIs REST, chatbots integrados a serviços externos, modelos de Machine Learning com
+Desenvolvedor Python focado em **back-end, dados e IA**. Já construí projetos como
+APIs REST, modelos de Machine Learning com
 NLP e análise de dados com IA. Gosto de projetos que resolvem problemas reais —
 do back-end ao deploy.
 
@@ -73,7 +73,7 @@ do back-end ao deploy.
 ---
 
 ### 🏋️ [Gym API](https://github.com/Renanmrqs/Gym-Api)
-> API REST completa para gestão de treinos de academia — cadastro de usuarios, planos e treinos. **em desenvolvimento**
+> API REST completa para gestão de treinos de academia — cadastro de usuarios e treinos. **em desenvolvimento**
 
 `Python` `FastAPI` `SQLite` `Streamlit`
 
