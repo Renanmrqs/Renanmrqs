@@ -20,12 +20,11 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor Python focado em **back-end, dados e IA**. Construí uma API REST completa com FastAPI, autenticação JWT, 
-banco relacional na nuvem e deploy — do zero ao ar. Modelos de Machine Learning com
-NLP e análise de dados com IA. Gosto de projetos que resolvem problemas reais —
-do back-end ao deploy.
+Desenvolvedor Python focado em **back-end, dados e IA**. Construí uma API REST 
+completa com FastAPI, autenticação JWT, banco relacional na nuvem e deploy — 
+do zero ao ar. Também trabalho com Machine Learning, NLP e análise de dados com IA.
 
-- 🛠️ Trabalhando: **Gym API — migração para SQLAlchemy ORM + PostgreSQL | SentimentAI - Migração para projeto escalonável**
+- 🛠️ Trabalhando: **Gym API — Configurando Alembic | Gym App — front-end Streamlit integrado à Gym API | SentimentAI - Migração para projeto escalonável**
 - 📚 Estudando: **SQLAlchemy, arquitetura de APIs REST e integração com LLMs**
 - 🎯 Buscando: **Estágio em Desenvolvimento Python, Dados ou IA**
 - 📍 Localização: **Santa Catarina, Brasil 🇧🇷**
