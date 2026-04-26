@@ -20,13 +20,13 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor Python focado em **back-end, dados e IA**. Já construí projetos como
-APIs REST, modelos de Machine Learning com
+Desenvolvedor Python focado em **back-end, dados e IA**. Construí uma API REST completa com FastAPI, autenticação JWT, 
+banco relacional na nuvem e deploy — do zero ao ar. Modelos de Machine Learning com
 NLP e análise de dados com IA. Gosto de projetos que resolvem problemas reais —
 do back-end ao deploy.
 
-- 🛠️ Trabalhando: **Gym API — REST API com FastAPI e SQLite**
-- 📚 Estudando: **CS50 SQL, FastAPI, Lógica e Dados**
+- 🛠️ Trabalhando: **Gym API — migração para SQLAlchemy ORM + PostgreSQL | SentimentAI - Migração para projeto escalonável**
+- 📚 Estudando: **SQLAlchemy, arquitetura de APIs REST e integração com LLMs**
 - 🎯 Buscando: **Estágio em Desenvolvimento Python, Dados ou IA**
 - 📍 Localização: **Santa Catarina, Brasil 🇧🇷**
 - ⚡ Curiosidade: Fanático por **Football Manager** e **Breaking Bad**
@@ -38,7 +38,9 @@ do back-end ao deploy.
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -73,9 +75,9 @@ do back-end ao deploy.
 ---
 
 ### 🏋️ [Gym API](https://github.com/Renanmrqs/Gym-Api)
-> API REST completa para gestão de treinos de academia — cadastro de usuarios e treinos. **em desenvolvimento**
+> API REST completa para gestão de treinos de academia — cadastro de usuarios e treinos. [🔗 Demo](https://gym-api-08pc.onrender.com/docs)
 
-`Python` `FastAPI` `SQLite` `Streamlit`
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy`
 
 ---
 
