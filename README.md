@@ -80,6 +80,13 @@ do zero ao ar. Também trabalho com Machine Learning, NLP e análise de dados co
 
 ---
 
+### [Gym Register](https://github.com/Renanmrqs/Gym-App)
+> App streamlit consumindo a API, fazendo o caminho Full-Stack completo. [🔗 Demo](https://gym-app-eggj82u2wknfk48seq2tmy.streamlit.app/)
+
+`Python` `Streamlit` `Requests`
+
+---
+
 ### 📈 [Projeto InsightCSV](https://github.com/Renanmrqs/Projeto-InsightCSV)
 > Análise de arquivos CSV atraves de IA com Langchain. 
 
