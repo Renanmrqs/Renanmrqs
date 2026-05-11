@@ -1,4 +1,8 @@
-<h1 align="center">E aí! Sou o Renan 👋</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Renan+Marques;Desenvolvedor+Python;Back-End+%C2%B7+Dados+%C2%B7+IA" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
   <b>Desenvolvedor Python | Back-End · Dados · IA | Buscando Estágio</b>
