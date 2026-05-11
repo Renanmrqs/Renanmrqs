@@ -4,9 +4,6 @@
   </a>
 </h1>
 
-<p align="center">
-  <b>Desenvolvedor Python | Back-End · Dados · IA | Buscando Estágio</b>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/renan-marques-dev-python" target="_blank">
