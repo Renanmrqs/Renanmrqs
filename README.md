@@ -22,10 +22,10 @@
 
 Desenvolvedor Python focado em **back-end, dados e IA**. Construí uma API REST 
 completa com FastAPI, autenticação JWT, banco relacional na nuvem e deploy — 
-do zero ao ar. Também trabalho com Machine Learning, NLP e análise de dados com IA.
+do zero ao ar. Também desenvolvo extensões Chrome com ML integrado, trabalho com NLP e análise de dados com IA.
 
-- 🛠️ Trabalhando: **Gym API — Configurando Alembic | Gym App — front-end Streamlit integrado à Gym API | SentimentAI - Migração para projeto escalonável**
-- 📚 Estudando: **SQLAlchemy, arquitetura de APIs REST e integração com LLMs**
+- 🛠️ Trabalhando: **ToxiBlock — finalizando suporte ao Twitter/X e preparando publicação na Chrome Web Store**
+- 📚 Estudando: **JavaScript, Extensões Chrome, arquitetura de APIs REST e integração com LLMs**
 - 🎯 Buscando: **Estágio em Desenvolvimento Python, Dados ou IA**
 - 📍 Localização: **Santa Catarina, Brasil 🇧🇷**
 - ⚡ Curiosidade: Fanático por **Football Manager** e **Breaking Bad**
@@ -36,13 +36,15 @@ do zero ao ar. Também trabalho com Machine Learning, NLP e análise de dados co
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
@@ -80,17 +82,17 @@ do zero ao ar. Também trabalho com Machine Learning, NLP e análise de dados co
 
 ---
 
-### 📱 [Gym Register](https://github.com/Renanmrqs/Gym-App)
-> App streamlit consumindo a API, fazendo o caminho Full-Stack completo. [🔗 Demo](https://gym-app-eggj82u2wknfk48seq2tmy.streamlit.app/)
+### 🌐 [Gym Register](https://github.com/Renanmrqs/Gym-App)
+> Frontend em Streamlit consumindo a Gym API — dashboard dinâmico com métricas por usuário, registro de treinos, histórico e gráficos de evolução de carga por exercício. [🔗 Demo](https://gym-app-eggj82u2wknfk48seq2tmy.streamlit.app/)
 
 `Python` `Streamlit` `Requests`
 
 ---
 
-### 📈 [Projeto InsightCSV](https://github.com/Renanmrqs/Projeto-InsightCSV)
-> Análise de arquivos CSV atraves de IA com Langchain. 
+### 🛡️ [ToxiBlock](https://github.com/Renanmrqs/ToxiBlock)
+> Extensão Chrome que detecta e filtra comentários tóxicos em tempo real no YouTube e Twitter/X usando Machine Learning.
 
-`Python` `langchain` `Pandas` `Streamlit`
+`JavaScript` `Chrome Extensions API` `Python` `FastAPI` `scikit-learn`
 
 ---
 
