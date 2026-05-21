@@ -25,8 +25,8 @@ Desenvolvedor Python focado em **back-end, dados e IA**. Construí uma API REST
 completa com FastAPI, autenticação JWT, banco relacional na nuvem e deploy — 
 do zero ao ar. Também desenvolvo extensões Chrome com ML integrado, trabalho com NLP e análise de dados com IA.
 
-- 🛠️ Trabalhando: **ToxiBlock — finalizando suporte ao Twitter/X e preparando publicação na Chrome Web Store**
-- 📚 Estudando: **JavaScript, Extensões Chrome, arquitetura de APIs REST e integração com LLMs**
+- 🛠️ Trabalhando: **CineRag Analytics — começando um projeto novo, fazendo o banco de dados**
+- 📚 Estudando: **JavaScript, Frontend básico, arquitetura de APIs REST e integração com LLMs**
 - 🎯 Buscando: **Estágio em Desenvolvimento Python, Dados ou IA**
 - 📍 Localização: **Santa Catarina, Brasil 🇧🇷**
 - ⚡ Curiosidade: Fanático por **Football Manager** e **Breaking Bad**
