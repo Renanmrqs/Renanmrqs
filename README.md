@@ -83,10 +83,10 @@ do zero ao ar. Também desenvolvo extensões Chrome com ML integrado, trabalho c
 
 ---
 
-### 🌐 [Gym Register](https://github.com/Renanmrqs/Gym-App)
-> Frontend em Streamlit consumindo a Gym API — dashboard dinâmico com métricas por usuário, registro de treinos, histórico e gráficos de evolução de carga por exercício. [🔗 Demo](https://gym-app-eggj82u2wknfk48seq2tmy.streamlit.app/)
+### 🌐 [CineRag Analytics](https://github.com/Renanmrqs/cinerag-frontend)
+> Frontend JavaScript vanilla consumindo cinerag-api — Interface web da plataforma CineRAG Analytics — um app de análise de sentimentos de filmes com assistente de IA integrado. Construído em HTML, CSS e JavaScript vanilla, sem frameworks. [🔗 Demo](https://cinerag-analytics.vercel.app/index.html)
 
-`Python` `Streamlit` `Requests`
+`Python` `JavaScript` `HTML` `CSS`
 
 ---
 
