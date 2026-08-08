@@ -1,9 +1,8 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Renan+Marques;Desenvolvedor+Python;Back-End+%C2%B7+Dados+%C2%B7+IA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Renan+Marques;Desenvolvedor+Python+%26+Dados;BI+%C2%B7+Qlik+Sense+%C2%B7+IA" alt="Typing SVG" />
   </a>
 </h1>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/renan-marques-dev-python" target="_blank">
@@ -21,13 +20,11 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor Python focado em **back-end, dados e IA**. Construí uma API REST 
-completa com FastAPI, autenticação JWT, banco relacional na nuvem e deploy — 
-do zero ao ar. Também desenvolvo extensões Chrome com ML integrado, trabalho com NLP e análise de dados com IA.
+Desenvolvedor focado em **dados, IA e back-end**. Tenho experiência na construção de APIs REST completas com FastAPI, autenticação JWT, banco relacional na nuvem e deploy. Atualmente atuo na área de Business Intelligence, unindo *IA* e *análise de dados* para gerar valor real ao negócio.
 
-- 🛠️ Trabalhando: **CineRag Analytics E Portfolio Proprio — começando o portfolio**
-- 📚 Estudando: **JavaScript, Frontend básico e React Básico**
-- 🎯 Buscando: **Estágio em Desenvolvimento Python, Dados ou IA**
+- 💼 Atual: **Estagiário em Dados e IA (BI & Qlik Sense) no Sewe Group**
+- 🛠️ Desenvolvendo: **CineRag Analytics e meu Portfólio Pessoal**
+- 📚 Estudando: **Qlik Sense, JavaScript, Frontend básico e React**
 - 📍 Localização: **Santa Catarina, Brasil 🇧🇷**
 - ⚡ Curiosidade: Fanático por **Football Manager** e **Breaking Bad**
 
@@ -37,6 +34,7 @@ do zero ao ar. Também desenvolvo extensões Chrome com ML integrado, trabalho c
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -77,14 +75,14 @@ do zero ao ar. Também desenvolvo extensões Chrome com ML integrado, trabalho c
 ---
 
 ### 🏋️ [Gym API](https://github.com/Renanmrqs/Gym-Api)
-> API REST completa para gestão de treinos de academia — cadastro de usuarios e treinos. [🔗 Demo](https://gym-api-08pc.onrender.com/docs)
+> API REST completa para gestão de treinos de academia — cadastro de usuários e treinos. [🔗 Demo](https://gym-api-08pc.onrender.com/docs)
 
 `Python` `FastAPI` `PostgreSQL` `SQLAlchemy`
 
 ---
 
 ### 🌐 [CineRag Analytics](https://github.com/Renanmrqs/cinerag-frontend)
-> Frontend JavaScript vanilla consumindo cinerag-api — Interface web da plataforma CineRAG Analytics — um app de análise de sentimentos de filmes com assistente de IA integrado. Construído em HTML, CSS e JavaScript vanilla, sem frameworks. [🔗 Demo](https://cinerag-analytics.vercel.app/index.html)
+> Interface web da plataforma CineRAG Analytics — um app de análise de sentimentos de filmes com assistente de IA integrado. Construído em HTML, CSS e JavaScript vanilla, sem frameworks. [🔗 Demo](https://cinerag-analytics.vercel.app/index.html)
 
 `Python` `JavaScript` `HTML` `CSS`
 
