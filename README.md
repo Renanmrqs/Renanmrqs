@@ -1,110 +1,75 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Renan+Marques;Desenvolvedor+Python+%26+Dados;BI+%C2%B7+Qlik+Sense+%C2%B7+IA" alt="Typing SVG" />
-  </a>
-</h1>
+<h1 align="center">Olá, eu sou o Renan Marques 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/renan-marques-dev-python" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <strong>BI & Dados · Python · APIs · Full Stack</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/renanmrqsdev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:renanmarques1923@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
   </a>
-  <a href="https://github.com/Renanmrqs">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://portfolio-renanmrqs-ten-68.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfólio-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
   </a>
 </p>
 
----
+## Sobre mim
 
-## 🚀 Sobre Mim
+Sou estagiário de **BI e Dados no SEWE Group**, onde trabalho com Qlik Sense e soluções orientadas a dados. Também estudo desenvolvimento de software e construo projetos para aprofundar meus conhecimentos em Python, APIs, bancos de dados, análise de dados e Full Stack.
 
-Desenvolvedor focado em **dados, IA e back-end**. Tenho experiência na construção de APIs REST completas com FastAPI, autenticação JWT, banco relacional na nuvem e deploy. Atualmente atuo na área de Business Intelligence, unindo *IA* e *análise de dados* para gerar valor real ao negócio.
+- 🎓 Análise e Desenvolvimento de Sistemas — UNIVALI
+- 🎓 Sistemas de Informação — Unisul
+- 💼 BI, dados e Qlik Sense no dia a dia
+- 🧠 Aprendendo pela prática, com projetos end-to-end
+- 📍 Florianópolis, Santa Catarina, Brasil
 
-- 💼 Atual: **Estagiário em Dados e IA (BI & Qlik Sense) no Sewe Group**
-- 🛠️ Desenvolvendo: **CineRag Analytics e meu Portfólio Pessoal**
-- 📚 Estudando: **Qlik Sense, JavaScript, Frontend básico e React**
-- 📍 Localização: **Santa Catarina, Brasil 🇧🇷**
-- ⚡ Curiosidade: Fanático por **Football Manager** e **Breaking Bad**
+## Tecnologias
 
----
-
-## 🧰 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Qlik_Sense-009845?style=flat-square&logo=qlik&logoColor=white" alt="Qlik Sense"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
----
+## Projetos em destaque
 
-## 📊 GitHub Stats
+### 🚀 [DataPilot](https://github.com/Renanmrqs/DataPilot)
 
-<p align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Renanmrqs&theme=tokyonight"/>
-</p>
-<p align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Renanmrqs&theme=tokyonight"/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Renanmrqs&theme=tokyonight"/>
-</p>
+Projeto em desenvolvimento que conecta ETL, PostgreSQL, FastAPI, Qlik Sense e IA para transformar métricas confiáveis em insights explicáveis. O cálculo permanece em SQL/Python; a IA interpreta resultados validados.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Renanmrqs&theme=tokyonight&hide_border=false&locale=pt_BR" alt="GitHub Streak"/>
-</p>
+### 🎬 [CineRAG Analytics](https://github.com/Renanmrqs/cinerag-frontend)
 
----
-
-## 💻 Projetos em Destaque
-
-### 🤖 [SentimentAI](https://github.com/Renanmrqs/SentimentAI)
-> Modelo de Machine Learning para análise de sentimentos em reviews de filmes usando Processamento de Linguagem Natural.
-
-`Python` `Streamlit` `NLT` `scikit-learn` `Pandas`
-
----
+Aplicação web para análise de sentimentos de filmes com assistente de IA, frontend em JavaScript e uma API própria em Python.
 
 ### 🏋️ [Gym API](https://github.com/Renanmrqs/Gym-Api)
-> API REST completa para gestão de treinos de academia — cadastro de usuários e treinos. [🔗 Demo](https://gym-api-08pc.onrender.com/docs)
 
-`Python` `FastAPI` `PostgreSQL` `SQLAlchemy`
+API REST para gestão de usuários e treinos, construída com FastAPI, PostgreSQL e SQLAlchemy. [Documentação da API](https://gym-api-08pc.onrender.com/docs).
 
----
+### 🤖 [SentimentAI](https://github.com/Renanmrqs/SentimentAI)
 
-### 🌐 [CineRag Analytics](https://github.com/Renanmrqs/cinerag-frontend)
-> Interface web da plataforma CineRAG Analytics — um app de análise de sentimentos de filmes com assistente de IA integrado. Construído em HTML, CSS e JavaScript vanilla, sem frameworks. [🔗 Demo](https://cinerag-analytics.vercel.app/index.html)
+Projeto de Machine Learning e NLP para classificar sentimentos em avaliações de filmes.
 
-`Python` `JavaScript` `HTML` `CSS`
-
----
-
-### 🛡️ [ToxiBlock](https://github.com/Renanmrqs/ToxiBlock)
-> Extensão Chrome que detecta e filtra comentários tóxicos em tempo real no YouTube e Twitter/X usando Machine Learning.
-
-`JavaScript` `Chrome Extensions API` `Python` `FastAPI` `scikit-learn`
-
----
-
-## 🐍 Contribuições
+## Estatísticas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Renanmrqs/Renanmrqs/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Renanmrqs&theme=tokyonight" alt="Resumo do perfil"/>
 </p>
-
----
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Renanmrqs&color=blueviolet&style=for-the-badge" alt="profile views"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Renanmrqs&theme=tokyonight" alt="Repositórios por linguagem"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Renanmrqs&theme=tokyonight" alt="Linguagens mais usadas"/>
 </p>
 
-<p align="center"><i>"Code solves problems. Python solves them elegantly."</i></p>
+## Contato
+
+Estou sempre aberto a conversar sobre software, dados, BI e oportunidades de aprendizado.
+
+[LinkedIn](https://www.linkedin.com/in/renanmrqsdev/) · [Portfólio](https://portfolio-renanmrqs-ten-68.vercel.app/) · [E-mail](mailto:renanmarques1923@gmail.com)
