@@ -69,4 +69,4 @@ Projeto de Machine Learning e NLP para classificar sentimentos em avaliações d
 
 Estou sempre aberto a conversar sobre software, dados, BI e oportunidades de aprendizado.
 
-[LinkedIn](https://www.linkedin.com/in/renanmrqsdev/) · [Portfólio](https://portfolio-renanmrqs-ten-68.vercel.app/) · [E-mail](mailto:renanmarques1923@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/renanmrqsdev/) · [E-mail](mailto:renanmarques1923@gmail.com)
