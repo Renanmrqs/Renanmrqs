@@ -11,9 +11,6 @@
   <a href="mailto:renanmarques1923@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
   </a>
-  <a href="https://portfolio-renanmrqs-ten-68.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfólio-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
-  </a>
 </p>
 
 ## Sobre mim
